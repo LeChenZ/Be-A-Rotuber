@@ -17,15 +17,6 @@ However, this project was **abandoned** during its initial phase, and no further
 
 ---
 
-## 🛠️ Features (Planned but not implemented)
-
-- Basic YouTuber gameplay loop
-- In-game upgrades
-- Studio and equipment customization
-- A map
-
----
-
 ## ⚠️ Notice
 
 > ❌ **No support or maintenance** will be provided.  
