@@ -20,7 +20,7 @@ However, this project was **abandoned** during its initial phase, and no further
 ## ⚠️ Notice
 
 > ❌ **No support or maintenance** will be provided.  
-> ✅ You are free to use the code, assets, or ideas in any way you wish.
+> ✅ You are free to use the code, assets, or ideas in any way you wish.  
 > ⚠️ You must keep the credits in the code (such as a print statement or any other form indicating the original project).
 
 ---
